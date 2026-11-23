@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jamie Cole 👋
 
-<!--
-**jamiecole-ai/jamiecole-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie hacker building AI-powered creative tools.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [PicVane](https://picvane.com) — Free AI image & photo editor
+- [AI H3 Image](https://aih3image.com) — Multi-model AI image generation & editing
+- [Seedream 5.5 Pro](https://seedream55pro.com) — AI image studio
+- [Image to Video AI](https://imagetovideoai.tools) — Turn photos into videos
+- [VidFomo](https://vidfomo.com) — AI video tools
+
+## About
+
+I build small, useful AI tools for creators — mostly solo, shipping fast and learning in public.
